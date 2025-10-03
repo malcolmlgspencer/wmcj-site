@@ -43,10 +43,9 @@ section {
 
 #home {
     background-image: url("https://github.com/malcolmlgspencer/wmcj-site/blob/main/Images/header_background.png?raw=true");
+
     @media only screen and (max-width: 560px) {
-    img {
-    width: 100%;
-}
+    .background-image {width: 100%;}
 }
 }
 
@@ -143,4 +142,5 @@ img:hover {
     max-height: auto;
     min-height: auto;
 }
+
 
