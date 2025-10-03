@@ -79,14 +79,14 @@ header a {
 
 #home {
     max-width: auto;
-    min-width: auto;
+    min-width: 500px;
     max-height: auto;
     min-height: 500px;
 }
 
 #about {
     max-width: auto;
-    min-width: auto;
+    min-width: 500px;
     max-height: auto;
     min-height: 1000px;
 }
@@ -97,7 +97,7 @@ header a {
 
 #music {
     max-width: auto;
-    min-width: 1500px;
+    min-width: 500px;
     max-height: auto;
     min-height: 1500px;
 }
@@ -129,7 +129,7 @@ img:hover {
 
 #contact {
     max-width: auto;
-    min-width: auto;
+    min-width: 500px;
     max-height: auto;
     min-height: 500px;
 }
@@ -138,4 +138,5 @@ footer {
     text-align: center;
     padding: 50px;
 }
+
 
