@@ -1,3 +1,10 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+
 body {
     margin: 0;
     margin-top: 50px;
@@ -38,7 +45,7 @@ section {
     background-size: cover; 
     background-position: center center; 
     background-repeat: no-repeat;
-    background-attachment: fixed;
+    background-attachment: scroll; /* Changed from 'fixed' */
 }
 
 #home {
@@ -80,9 +87,9 @@ header a {
 
 #home {
     max-width: auto;
-    min-width: 500px;
+    min-width: auto; /* Changed to 'auto' to avoid issues with background image responsive scaling */
     max-height: auto;
-    min-height: 500px;
+    min-height: auto; /* Changed to 'auto' to avoid issues with background image responsive scaling */
 }
 
 #about {
@@ -139,11 +146,3 @@ footer {
     text-align: center;
     padding: 50px;
 }
-
-
-
-
-
-
-
-
