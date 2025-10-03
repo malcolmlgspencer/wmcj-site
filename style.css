@@ -4,9 +4,8 @@ html, body {
     height: 100%;
 }
 
-/* 'font-family' added to overcome lack of support for SimSun in non-Windows devices */
+
 body { 
-    font-family: 'Noto Serif SC', 'PingFang SC', 'Microsoft YaHei', 'SimSun', 'Heiti SC', 'Arial', sans-serif;
     margin: 0;
     margin-top: 50px;
 }
@@ -159,3 +158,4 @@ footer {
     background-position: center;
 }
 }
+
