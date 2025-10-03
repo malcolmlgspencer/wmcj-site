@@ -42,10 +42,6 @@ section {
 }
 
 #home {
-    content: '';
-    position: fixed;
-    top: 0;
-    left: 0;
     background-image: url("https://github.com/malcolmlgspencer/wmcj-site/blob/main/Images/header_background.png?raw=true");
 }
 
@@ -142,6 +138,7 @@ img:hover {
     max-height: auto;
     min-height: auto;
 }
+
 
 
 
