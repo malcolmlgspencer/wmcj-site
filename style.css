@@ -97,8 +97,8 @@ header a {
 
 #music {
     max-width: auto;
-    min-width: auto;
-    max-height: 1000px;
+    min-width: 1000px;
+    max-height: auto;
     min-height: 1000px;
 }
 
@@ -138,5 +138,6 @@ footer {
     text-align: center;
     padding: 50px;
 }
+
 
 
