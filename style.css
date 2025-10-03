@@ -98,7 +98,7 @@ header a {
 #music {
     max-width: auto;
     min-width: auto;
-    max-height: auto;
+    max-height: 1000px;
     min-height: 1000px;
 }
 
@@ -131,11 +131,12 @@ img:hover {
     max-width: auto;
     min-width: auto;
     max-height: auto;
-    min-height: 1000px;
+    min-height: 500px;
 }
 
 footer {
     text-align: center;
-    padding: 100px;
+    padding: 50px;
 }
+
 
