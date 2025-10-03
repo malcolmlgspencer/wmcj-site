@@ -42,7 +42,7 @@ section {
 }
 
 #home {
-    background-image: url("https://github.com/malcolmlgspencer/wmcj-site/blob/main/Images/header_background.png");
+    background-image: url("https://github.com/malcolmlgspencer/wmcj-site/blob/main/Images/header_background.png?raw=true");
 }
 
 #about .profile-img {
@@ -138,6 +138,7 @@ img:hover {
     max-height: auto;
     min-height: auto;
 }
+
 
 
 
