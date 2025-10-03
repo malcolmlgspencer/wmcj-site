@@ -43,11 +43,6 @@ section {
 
 #home {
     background-image: url("https://github.com/malcolmlgspencer/wmcj-site/blob/main/Images/header_background.png?raw=true");
-
-@media screen and (max-width: 1024px) { /* Specific to this particular image */
-    left: 50%;
-    margin-left: -512px;   /* 50% */
-  }
 }
 
 
@@ -144,6 +139,7 @@ footer {
     text-align: center;
     padding: 50px;
 }
+
 
 
 
