@@ -107,7 +107,7 @@ header a {
     max-width: auto;
     min-width: 500px;
     max-height: auto;
-    min-height: 1000px;
+    min-height: 750px;
 }
 
 #music 
@@ -157,3 +157,4 @@ footer {
     background-position: center;
 }
 }
+
