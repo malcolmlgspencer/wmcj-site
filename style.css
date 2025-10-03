@@ -131,10 +131,11 @@ img:hover {
     max-width: auto;
     min-width: auto;
     max-height: auto;
-    min-height: 500px;
+    min-height: 1000px;
 }
 
 footer {
     text-align: center;
     padding: 100px;
 }
+
