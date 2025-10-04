@@ -124,17 +124,19 @@ img:hover {
     box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
 }
 
-.column {
-    float: left;
-    width: 25%;
-    padding: 20px;
+.row {
+    display: flex;
+    justify-content: center; /* centers the images horizontally */
+    gap: 20px; /* spacing between images */
+    margin-bottom: 20px;
 }
 
-.row::after {
-    content: "";
-    clear: both;
-    display: table;
-} 
+.row img {
+    width: 150px;
+    height: auto;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
 
 #contact {
     max-width: auto;
@@ -158,4 +160,5 @@ footer {
     background-position: center;
 }
 }
+
 
