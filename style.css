@@ -111,7 +111,7 @@ header a {
     min-height: 750px;
 }
 
-#music 
+#music {
 
 img {
     border: 1px solid #ddd;
@@ -137,7 +137,9 @@ img:hover {
     border: 1px solid #ddd;
     border-radius: 4px;
     padding: 5px;
-
+}
+}
+    
 #contact {
     max-width: auto;
     min-width: 500px;
@@ -160,5 +162,3 @@ footer {
     background-position: center;
 }
 }
-
-
