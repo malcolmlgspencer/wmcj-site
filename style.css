@@ -9,9 +9,7 @@ body {
     margin-top: 50px;
 }
 
-body { 
-    font-family: "SimSun", "STSong", "Song SC", serif;
-}
+
 
 header {
     display: flex;
