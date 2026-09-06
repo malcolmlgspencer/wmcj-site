@@ -4,12 +4,14 @@ html, body {
     height: 100%;
 }
 
-
 body { 
     margin: 0;
     margin-top: 50px;
 }
 
+body { 
+    font-family: "SimSun", "STSong", "Song SC", serif;
+}
 
 header {
     display: flex;
